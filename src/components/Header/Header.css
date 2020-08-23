@@ -1,0 +1,26 @@
+.header img{
+
+    height: 75px;
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header nav{
+    line-height: 50px;
+    background-color: darkturquoise;
+    margin-top: 25px;
+}
+
+nav a {
+   
+    padding: 17px;
+    text-decoration: none;
+    color:black;
+    font-family: sans-serif;
+}
+
+a:hover{
+    background-color: cornsilk;
+}

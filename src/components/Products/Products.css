@@ -1,0 +1,19 @@
+.product-info{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-top: 5px;
+    margin-right: 5px;
+    
+}
+.product-description{
+    padding-left: 20px;
+}
+.cart-button{
+    margin-bottom: 5px;
+    height: 30px;
+    width: 120px;
+    background: orange;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor:pointer;
+}
